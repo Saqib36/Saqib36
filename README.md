@@ -21,9 +21,9 @@ I enjoy working on hardware design projects spanning transistor-level CMOS circu
 Transistor-level CMOS amplifier design and simulation using Cadence Virtuoso.
 
 - Focus: Circuit topology, transistor sizing, biasing and simulation analysis.
-- Repository: "View Project" (https://github.com/YOUR-USERNAME/cmos-instrumentation-amplifier)
+- Repository: "View Project" (https://github.com/users/Saqib36/projects/1)
 
-2. Parameterized FIFO Controller
+2. FIFO Controller
 
 Verilog-based FIFO controller designed for FPGA implementation.
 
