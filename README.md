@@ -37,7 +37,7 @@ KiCad-based smartwatch hardware design using the XIAO nRF52840 Sense, GC9A01 dis
 
 - Focus: Schematic development, component integration and PCB design.
 - Status: In progress.
-- Repository: "View Project" (https://github.com/YOUR-USERNAME/smartwatch-pcb-kicad)
+- Repository: "View Project" (https://github.com/users/Saqib36/projects/6/settings)
 
 4. Adaptive Noise Canceller
 
