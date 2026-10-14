@@ -29,7 +29,7 @@ Verilog-based FIFO controller designed for FPGA implementation.
 
 - Target configuration: 8-bit data width and depth of 16.
 - Platform: Xilinx Vivado and Nexys A7 FPGA.
-- Repository: "View Project" (https://github.com/YOUR-USERNAME/verilog-parameterized-fifo)
+- Repository: "View Project" (https://github.com/users/Saqib36/projects/2)
 
 3. Smartwatch PCB Design
 
