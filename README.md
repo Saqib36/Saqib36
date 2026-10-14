@@ -1,4 +1,4 @@
-Hi, I'm Saqib Shariff 👋
+Hi, I'm Saqib Shariff 
 
 Electronics & Communication Engineering | VLSI | RTL Design | PCB Design
 
@@ -45,7 +45,7 @@ Adaptive signal-processing project focused on noise reduction in biomedical sign
 
 - Tools: MATLAB.
 - Focus: Adaptive filtering and signal-quality analysis.
-- Repository: "View Project" (https://github.com/YOUR-USERNAME/adaptive-ecg-noise-canceller)
+- Repository: "View Project" (https://github.com/users/Saqib36/projects/3)
 
 🏆 Achievement
 
