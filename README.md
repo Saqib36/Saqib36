@@ -59,7 +59,7 @@ Presidency University, Bengaluru
 🤝 Connect With Me
 
 - LinkedIn: "saqibms" (https://www.linkedin.com/in/saqibms)
-- GitHub: "My Repositories" (https://github.com/YOUR-USERNAME?tab=repositories)
+- GitHub: "My Repositories" (https://github.com/Saqib36/Saqib36/projects)
 
 I'm interested in opportunities involving ASIC design, RTL design and verification, analog and mixed-signal design, and PCB development.
 
